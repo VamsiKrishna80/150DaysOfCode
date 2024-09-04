@@ -1,0 +1,31 @@
+C PROGRAMMING LANGUAGE - INTRODUCTION
+
+INTRODUCTION TO PROGRAMMING LANGUAGE
+
+-> What is Programming language?
+Ans: Ex.   Every human is communicates to Another Human through a communication                        language.ex. English , telugu ,Hindi etc. Likewse A human is communicates to electronic machine using programming language.
+
+-> What is C Programming Language?
+Ans: C language is used for communication between a Human and Electronic machine(Computer) which is nothing but a computing engine. likewise English language in human to human communication. in the same way c language is used in human to computer. 
+Programming is nothing but giving a set of sequence of Instructions giving to computer through a language is called programming language. In this 150days of code, i am using C programming language.
+
+-> C introduction
+Ans: 1). C language was developed by Dennis M. Ritchie at the Bell Telephone Laboratories in 1972
+     2). C programming language is known for its simplicity and efficiency.             
+-> C Features
+Here are some of the most important features of the C language:
+
+1.Procedural Language
+2.Fast and Efficient
+3.Modularity
+4.Statically Type
+5.General-Purpose Language
+6.Rich set of built-in Operators
+7.Libraries with Rich Functions
+8.Middle-Level Language
+9.Portability
+10.Easy to Extend
+  
+     
+
+     
